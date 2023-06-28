@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [api]
+    WITH PASSWORD = N'z{{axgsigfj{qks0nayjwhVsmsFT7_&#$!~<iy{ btI!4l}r', SID = 0x07C44286AD4CDE42840020A9EE9E692E, DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
+
